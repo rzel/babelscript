@@ -1,0 +1,1 @@
+A script language that can be converted to any other programming language
